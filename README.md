@@ -1,5 +1,6 @@
 # Emanuel Phillipe
 Enthusiast of Software Development and A.I applications and it's use cases.
+> Pursuing Software Engineering at **PUC MINAS**.
 
 [![Linkedin Badge](https://img.shields.io/badge/IN-emanuel--phillipe-bright?style=for-the-badge&labelColor=%2318181b&color=%233f3f46&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femanuel-phillipe%2F)](https://www.linkedin.com/in/emanuel-phillipe/)
 [![Instagram Badge](https://img.shields.io/badge/@emanuel.phillipe-phillipe?style=for-the-badge&logo=instagram&labelColor=%2318181b&color=%233f3f46&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femanuel-phillipe%2F)](https://www.instagram.com/emanuel.phillipe)
