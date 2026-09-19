@@ -15,9 +15,9 @@ Since 2020 deepening and building my skills on Software Development, I always se
 ![Static Badge](https://img.shields.io/badge/Localiza%26Co-bright?style=for-the-badge&color=%2315803d&link=https%3A%2F%2Fwww.localiza.com%2Fbrasil%2Fpt-br)
 ![Static Badge](https://img.shields.io/badge/Grupo_F%C3%A1cil-bright?style=for-the-badge&color=%231e40af)
 
-> **Localiza&Co** _IT Assistant Operation II since March 2025 until Now.
+> **Localiza&Co** IT Assistant Operation II since March 2025 until Now.
 
-> **Grupo Fácil** _IT Apprentice_ since Dez. 2023 until March 2024.
+> **Grupo Fácil** IT Apprentice_ since Dez. 2023 until March 2024.
 
 ## Book of Knowledge
 Technologies, programs, tools, among others in which I have experience and background in.
