@@ -17,7 +17,7 @@ Since 2020 deepening and building my skills on Software Development, I always se
 
 > **Localiza&Co** IT Assistant Operation II since March 2025 until Now.
 
-> **Grupo Fácil** IT Apprentice_ since Dez. 2023 until March 2024.
+> **Grupo Fácil** IT Apprentice since Dez. 2023 until March 2024.
 
 ## Book of Knowledge
 Technologies, programs, tools, among others in which I have experience and background in.
